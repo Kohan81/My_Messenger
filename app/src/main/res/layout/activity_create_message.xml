@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:padding="16dp"
         android:orientation="vertical"
-        tools:context="com.hfad.mymessenger.CreateMessageActivity">
+        tools:context="com.example.mymessenger.CreateMessageActivity">
 
         <EditText
             android:id="@+id/message"
